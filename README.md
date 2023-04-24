@@ -29,3 +29,13 @@ Food Donation Form section, which contains the donation form
 Food Request Form section, which contains the request form
 Contact Us section, which contains the contact information
 Footer section, which contains copyright and legal information
+
+CSS Code
+The website's CSS code is organized using the following structure:
+
+Global styles, which define styles that are used throughout the website
+Layout styles, which define styles for the website's layout, such as positioning and sizing of elements
+Component styles, which define styles for individual components such as buttons, forms, and headers
+Utility styles, which define styles for specific utility classes, such as hide, show, and clear.
+Conclusion
+This documentation provides an overview of the Bring-Me-Meals website's purpose, architecture, and HTML and CSS code structure. With this information, developers can easily understand how the website is designed and how it functions.
